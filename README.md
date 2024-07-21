@@ -1,8 +1,8 @@
-![sm__3_-removebg-preview](https://github.com/user-attachments/assets/d0bebf31-117a-44ee-b017-54450a6766b1)
 <h1 align="center">Hi 👋, I'm Yanga Rubushe</h1>
 <h3 align="center">A Passionate Software Developer from Cape Town, South Africa 🌍</h3>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzI0cnlqNnd0ODdzcHRpb2pnZ2xjZHVwOWRibG83bzhvcDA2cHhpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" />
+  <img src="![sm__3_-removebg-preview](https://github.com/user-attachments/assets/d0bebf31-117a-44ee-b017-54450a6766b1)
+" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yangarubushe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
