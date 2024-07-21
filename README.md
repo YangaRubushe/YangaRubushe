@@ -68,10 +68,10 @@ a<h1 align="center">Hi 👋, I'm Yanga Rubushe</h1>
 <h3 align="center">Projects:</h3>
 <p align="center">
   <a href="https://github.com/yangarubushe/cinenex" target="_blank">
-    <img src="https://img.shields.io/badge/QR8-Project-blue?logo=github&style=for-the-badge" alt="CineNex"/>
+    <img src="https://img.shields.io/badge/cinenex-Project-blue?logo=github&style=for-the-badge" alt="CineNex"/>
   </a>
   <a href="https://github.com/yangarubushe/frontseat" target="_blank">
-    <img src="https://img.shields.io/badge/Desktop%20File%20Transfer-Project-green?logo=github&style=for-the-badge" alt="FrontSeat"/>
+    <img src="https://img.shields.io/badge/Front%20Seat%20Calculator-Project-green?logo=github&style=for-the-badge" alt="FrontSeat"/>
   </a>
 </p>
 <h3 align="center">My GitHub Stats:</h3>
