@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yanga Rubushe</h1>
 <h3 align="center">A Passionate Software Developer from Cape Town, South Africa 🌍</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yangarubushe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+  <a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a>
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yangarubushe" alt="Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=yangarubushe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <p align="center">
   <a href="https://twitter.com/yangarubushe" target="_blank">
@@ -24,7 +23,7 @@
 </p>
 <h3 align="center">About Me:</h3>
 <p align="center">
-  I'm a final-year Computer Science student at the University of the Western Cape 🎓. I’m also an ALX Software Engineering Programme participant with a specialization in Backend Development. My passion lies in coding, creating innovative applications, and exploring new technologies. 🚀
+  I'm a final-year Computer Science student at the UWC 🎓. I’m also an ALX Software Engineering Programme participant with a specialization in Backend Development. My passion lies in coding, creating innovative applications, and exploring new technologies. 🚀
 </p>
 <h3 align="center">My Skills:</h3>
 <p align="center">
@@ -69,10 +68,10 @@
 </p>
 <h3 align="center">Projects:</h3>
 <p align="center">
-  <a href="https://github.com/yangarubushe/qr8" target="_blank">
+  <a href="https://github.com/yangarubushe/cinenex" target="_blank">
     <img src="https://img.shields.io/badge/QR8-Project-blue?logo=github&style=for-the-badge" alt="QR8"/>
   </a>
-  <a href="https://github.com/yangarubushe/desktop-file-transfer" target="_blank">
+  <a href="https://github.com/yangarubushe/frontseat" target="_blank">
     <img src="https://img.shields.io/badge/Desktop%20File%20Transfer-Project-green?logo=github&style=for-the-badge" alt="Desktop File Transfer"/>
   </a>
 </p>
