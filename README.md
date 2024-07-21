@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yanga Rubushe</h1>
 <h3 align="center">A Passionate Software Developer from Cape Town, South Africa 🌍</h3>
 <p align="center">
-  <img src="https://charter2019.nyc/electromagnetic-wave-exposures-the-impact-of-nuclear-energy-2/
-" />
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yangarubushe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
