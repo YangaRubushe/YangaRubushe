@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yanga Rubushe</h1>
+a<h1 align="center">Hi 👋, I'm Yanga Rubushe</h1>
 <h3 align="center">A Passionate Software Developer from Cape Town, South Africa 🌍</h3>
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzI0cnlqNnd0ODdzcHRpb2pnZ2xjZHVwOWRibG83bzhvcDA2cHhpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" />
@@ -68,10 +68,10 @@
 <h3 align="center">Projects:</h3>
 <p align="center">
   <a href="https://github.com/yangarubushe/cinenex" target="_blank">
-    <img src="https://img.shields.io/badge/QR8-Project-blue?logo=github&style=for-the-badge" alt="QR8"/>
+    <img src="https://img.shields.io/badge/QR8-Project-blue?logo=github&style=for-the-badge" alt="CineNex"/>
   </a>
   <a href="https://github.com/yangarubushe/frontseat" target="_blank">
-    <img src="https://img.shields.io/badge/Desktop%20File%20Transfer-Project-green?logo=github&style=for-the-badge" alt="Desktop File Transfer"/>
+    <img src="https://img.shields.io/badge/Desktop%20File%20Transfer-Project-green?logo=github&style=for-the-badge" alt="FrontSeat"/>
   </a>
 </p>
 <h3 align="center">My GitHub Stats:</h3>
