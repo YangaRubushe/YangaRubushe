@@ -1,3 +1,4 @@
+![sm__3_-removebg-preview](https://github.com/user-attachments/assets/d0bebf31-117a-44ee-b017-54450a6766b1)
 <h1 align="center">Hi 👋, I'm Yanga Rubushe</h1>
 <h3 align="center">A Passionate Software Developer from Cape Town, South Africa 🌍</h3>
 <p align="center">
