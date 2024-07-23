@@ -1,3 +1,6 @@
+<p align="center">
+<img src="![sm (1)](https://github.com/user-attachments/assets/c4957a53-22df-43ad-a8ca-30e8cc301375)" width="1000" height="200" />
+</p>
 <h1 align="center">Hi 👋, I'm Yanga Rubushe</h1>
 <h3 align="center">A Passionate Software Developer from Cape Town, South Africa 🌍</h3>
 <p align="center">
