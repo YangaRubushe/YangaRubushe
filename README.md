@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/073feefc-078c-4976-8edb-9f88c2db1c87" />
+  <img src="https://github.com/user-attachments/assets/8d49fdf1-25e6-46f8-90e9-604f95f66443"
+/>
 </p>
 <h1 align="center">Hi 👋, I'm Yanga Rubushe</h1>
 <h3 align="center">A Passionate Software Developer from Cape Town, South Africa 🌍</h3>
