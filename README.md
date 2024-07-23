@@ -66,7 +66,7 @@
   <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/YangaRubushe"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/YangaRubushe" />
   </a>
 </p>
-<br></br>
+
 <h3 align="center">Projects:</h3>
 <p align="center">
   <a href="https://github.com/yangarubushe/cinenex" target="_blank">
