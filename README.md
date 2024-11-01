@@ -3,6 +3,10 @@
 </p>
 <h1 align="center">Hi 👋, I'm Yanga Rubushe</h1>
 <h3 align="center">A Passionate Software Developer Graduate from Cape Town, South Africa 🌍</h3>
+<h3 align="center">About Me:</h3>
+<p align="center">
+  I'm a BSc Computer Science student at the UWC 🎓. I’m also ALX Software Engineering Programme Graduate with a specialization in Backend Development and I'm a Full Stack DEV. My passion lies in coding, creating innovative applications, and exploring new technologies. 🚀
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yangarubushe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -19,10 +23,6 @@
   <a href="https://www.youtube.com/@yangarubushe" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Yanga%20Rubushe-red?logo=youtube&style=for-the-badge" alt="YouTube" />
   </a>
-</p>
-<h3 align="center">About Me:</h3>
-<p align="center">
-  I'm a final-year Computer Science student at the UWC 🎓. I’m also an ALX Software Engineering Programme participant with a specialization in Backend Development. My passion lies in coding, creating innovative applications, and exploring new technologies. 🚀
 </p>
 <h3 align="center">My Skills:</h3>
 <p align="center">
