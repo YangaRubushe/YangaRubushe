@@ -1,15 +1,12 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8d49fdf1-25e6-46f8-90e9-604f95f66443"
-/>
+  <img src="https://komarev.com/ghpvc/?username=yangarubushe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <h1 align="center">Hi 👋, I'm Yanga Rubushe</h1>
 <h3 align="center">A Passionate Software Developer from Cape Town, South Africa 🌍</h3>
 <p align="center">
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="1000" height="200" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yangarubushe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 <p align="center">
   <a href="https://twitter.com/yangarubushe" target="_blank">
     <img src="https://img.shields.io/twitter/follow/yangarubushe?logo=twitter&style=for-the-badge" alt="Twitter" />
@@ -74,6 +71,9 @@
   </a>
   <a href="https://github.com/yangarubushe/frontseat" target="_blank">
     <img src="https://img.shields.io/badge/Front%20Seat%20Calculator-Project-green?logo=github&style=for-the-badge" alt="FrontSeat"/>
+  </a>
+  <a href="https://github.com/yangarubushe/nexgenlearn" target="_blank">
+    <img src="https://img.shields.io/badge/Front%20Seat%20Calculator-Project-green?logo=github&style=for-the-badge" alt="NexGen Learn"/>
   </a>
 </p>
 <h3 align="center">My GitHub Stats:</h3>
