@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/Front%20Seat%20Calculator-Project-green?logo=github&style=for-the-badge" alt="FrontSeat"/>
   </a>
   <a href="https://github.com/yangarubushe/nexgenlearn" target="_blank">
-    <img src="https://img.shields.io/badge/Front%20Seat%20Calculator-Project-green?logo=github&style=for-the-badge" alt="NexGen Learn"/>
+    <img src="https://img.shields.io/badge/Nexgen%20Learn-Project-blue?logo=github&style=for-the-badge" alt="NexGen Learn"/>
   </a>
 </p>
 <h3 align="center">My GitHub Stats:</h3>
