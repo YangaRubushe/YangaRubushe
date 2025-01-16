@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate Software Developer Graduate from Cape Town, South Africa 🌍</h3>
 <h3 align="center">About Me:</h3>
 <p align="center">
-  I'm a BSc Computer Science student at the UWC 🎓. I’m also ALX Software Engineering Programme Graduate with a specialization in Backend Development and I'm a Full Stack DEV. My passion lies in coding, creating innovative applications, and exploring new technologies. 🚀
+  I'm a BSc Computer Science Graduate 🎓. I’m also ALX Software Engineering Programme Graduate with a specialization in Backend Development and I'm a Full Stack DEV. My passion lies in coding, creating innovative applications, and exploring new technologies. 🚀
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yangarubushe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
