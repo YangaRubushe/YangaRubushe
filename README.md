@@ -2,7 +2,7 @@
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="1000" height="200" />
 </p>
 <h1 align="center">Hi 👋, I'm Yanga Rubushe</h1>
-<h3 align="center">A Passionate Software Developer Graduate from Cape Town, South Africa 🌍</h3>
+<h3 align="center">A Passionate Software Engineer Graduate from Cape Town, South Africa 🌍</h3>
 <h3 align="center">About Me:</h3>
 <p align="center">
   I'm a BSc Computer Science Graduate 🎓. I’m also ALX Software Engineering Programme Graduate with a specialization in Backend Development and I'm a Full Stack DEV. My passion lies in coding, creating innovative applications, and exploring new technologies. 🚀
